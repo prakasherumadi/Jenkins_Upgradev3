@@ -7,7 +7,7 @@
   <artifactId>single-module-project</artifactId>
   <packaging>jar</packaging>
   <version>1.0.0</version>
-  <name>A_Single_Maven_Module</name>
+  <name>A Single Maven Module</name>
   <description>Sample single module Maven project with a working, deployable site.</description>
   <url>http://www.example.com</url>
 
